@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "raku ironhawk",
+      "authorEmail": "takayama84@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
